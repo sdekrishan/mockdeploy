@@ -1,13 +1,64 @@
 {
-  "books":[
+  "books": [
     {
-    "book_name": "Harry Potter and the Philosopher's Stone",
-    "author": "J. K. Rowling",
-		"genre": "fiction",
-		"edition": "2021",
-		"publisher": "Bloomsbury",
-		"cost": 1299,
-		"borrowed": false
-  }
+      "id": 1675931302468,
+      "book_name": "death note",
+      "author": "jana",
+      "genre": "Fiction",
+      "edition": "2022",
+      "publisher": "anime",
+      "cost": "1455",
+      "borrowed": true
+    },
+    {
+      "id": 1675933070811,
+      "book_name": "history book",
+      "author": "histro",
+      "genre": "History",
+      "edition": "2021",
+      "publisher": "hhhh",
+      "cost": "25663",
+      "borrowed": false
+    },
+    {
+      "id": 1675933094565,
+      "book_name": "tech book",
+      "author": "tech",
+      "genre": "Tech",
+      "edition": "2022",
+      "publisher": "tech",
+      "cost": "122",
+      "borrowed": false
+    },
+    {
+      "id": 1675933117349,
+      "book_name": "Business",
+      "author": "Business",
+      "genre": "Business",
+      "edition": "2020",
+      "publisher": "Business",
+      "cost": "3652",
+      "borrowed": false
+    },
+    {
+      "id": 1675933141047,
+      "book_name": "science",
+      "author": "science",
+      "genre": "Science",
+      "edition": "2022",
+      "publisher": "science",
+      "cost": "",
+      "borrowed": false
+    },
+    {
+      "id": 1675933158436,
+      "book_name": "science",
+      "author": "science",
+      "genre": "Science",
+      "edition": "2022",
+      "publisher": "anime",
+      "cost": "255578",
+      "borrowed": false
+    }
   ]
 }
