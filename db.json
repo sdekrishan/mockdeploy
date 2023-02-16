@@ -1,34 +1,56 @@
 {
-  "books": [
+  "users": [
     {
-      "id": 1675936197164,
-      "book_name": "history book",
-      "author": "history book",
-      "genre": "Fiction",
-      "edition": "2020",
-      "publisher": "anime",
-      "cost": "2500",
-      "borrowed": false
+      "username": "krishan",
+      "email": "krishan@gmail.com",
+      "password": "kkk",
+      "id": 1675936210073,
+      "stocks": []
     },
     {
-      "id": 1675936210072,
-      "book_name": "ficiton",
-      "author": "history book",
-      "genre": "Fiction",
-      "edition": "2020",
-      "publisher": "anime",
-      "cost": "1400",
-      "borrowed": false
+      "username": "kumar",
+      "email": "kumar@gmail.com",
+      "password": "kkk",
+      "id": 1675936210076,
+      "stocks": []
     },
     {
-      "id": 1675936217590,
-      "book_name": "tech",
-      "author": "history book",
-      "genre": "Fiction",
-      "edition": "2020",
-      "publisher": "anime",
-      "cost": "44",
-      "borrowed": false
+      "username": "ram",
+      "email": "ram@gmail.com",
+      "password": "1111",
+      "id": 1675936210077
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 50000,
+      "cost_per_share": 4210,
+      "price_action": 12
+    },
+    {
+      "id": 2,
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4
+    },
+    {
+      "id": 1676541657434,
+      "company_logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDxANDg8PDQ8PFQ0PEA4PEA8PDg4NFRUWFhURFRUYHSogGBsmHRUVITEhKCkrLy4uFx8zODMsNyguLisBCgoKDg0OGhAQFy8lHyAtLS4tLTIrNy0tLS0rLS0rKy0tLS0tKy0tLS4tLSstKy0tLS0tLy0tLS0tLS0uLS0tK//AABEIAI8BYAMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAABwQFBgEDAgj/xABLEAABAwEBBg8NBgYDAQAAAAABAAIDBBEFBgcSITETFjRBUVJhcXOBkZKhstEXIjIzVGNygrGzwcLSFDVCU5PhIyRilKKjFUPi8f/EABsBAAIDAQEBAAAAAAAAAAAAAAAEAgMGBQEH/8QAPxEAAQICBQcKBQIGAwEAAAAAAQACAxEEBSExURIVQXGBkaEUIjIzNFJhsbLRE1OiwdIGciNiwuHw8TVzgiT/2gAMAwEAAhEDEQA/AHispfLf3QXOJiJdPOM8UNhxD/W45G72U7i5hGvhdc6iJjOLNMdBjdrsFlr5OIDJukJCPcXEkkkkkkk2kk5yTrlRJXUoFBEYZb7tAxTPfhgfb3tCLNa2oy+7XO6/J5C39c/QliheTK6mb6N3OJ90ze7BJ5C39d30Lvdfk8hb+u76EsUImjN9G7nE+6Zvdgk8hb+u76Ed2CTyFv8AcH6EskImjN9G7nE+6Z3dgk8hb+ufoXO7BJ5C3+4P0JZIRMozfRu5xPumb3YJPIW/3B+hHdfk8hb/AHB+hLJCJlGb6N3OJ90ze6/J5C39c/QjuvyeQt/XP0JZIRMozfRu5xPumb3YJPIW/wBwfoX3FhgNvf0Pe6+LP33SxK9CJlGb6N3OJ91+g72r8aK6YxYXOZKBaYJQ1slmy2wkOG8cmvYtIvy7TVEkL2yxF0b2EOY9psc1wzEL9C3oXbF0KKKpNjXkFkoGZszMjrNgHONwh",
+      "company_name": "no",
+      "company_type": "IT",
+      "stock_exchange": "NSE",
+      "total_shares": "140000",
+      "cost_per_share": "40",
+      "price_action": "14"
     }
   ]
 }
